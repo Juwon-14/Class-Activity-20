@@ -2,7 +2,7 @@
 //  main.cpp
 //  Class Activity-20
 //
-//  Created by 홍주원 on 10/14/24.
+//  Created by Juwon Hong on 10/14/24.
 //
 
 #include <iostream>
